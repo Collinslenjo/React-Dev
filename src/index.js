@@ -1,5 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
+
+const API_KEY = 'SOME-RANDOM_NUMBER';
+
+// make sure to run npm i -S youtube-api-search
+
 // Create a New Component. This Component Should produse
 //some HTML
 const App = () => {
